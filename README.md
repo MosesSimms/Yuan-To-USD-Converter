@@ -1,5 +1,5 @@
 # Yuan-To-USD-Converter
-simple app built with html, css, and electronjs.
+Simple app built with HTML, CSS, and Electronjs.
 
 npm install to get dependencies, npm start to start app 
 
