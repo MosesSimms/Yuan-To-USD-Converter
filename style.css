@@ -1,5 +1,8 @@
 html{
-	background-image: url(assets/bgimg.jpg);	
+	background-image: url(assets/bgimg.jpg);
+	
+	display: flex;
+	justify-content: center;	
 }
 #header{
 	text-align: center;
